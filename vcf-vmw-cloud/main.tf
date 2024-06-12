@@ -1,7 +1,7 @@
 provider "vsphere" {
-  user                 = "jatin@tsalab.local"
-  password             = "VMwhere@VCF"
-  vsphere_server       = "bca-vcf-vc01.vcf.tsalab.local"
+  user                 = "xx"
+  password             = "xxx"
+  vsphere_server       = "sdas"
   allow_unverified_ssl = true
 }
 
